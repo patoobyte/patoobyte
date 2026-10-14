@@ -1,4 +1,4 @@
-# Sooyoung Lee | Where questions become side quests
+## Sooyoung Lee | Where questions become side quests
 
 <!--
 **patoobyte/patoobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
