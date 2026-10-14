@@ -1,4 +1,4 @@
-## Hi there 👋
+# Sooyoung Lee | Where questions become side quests
 
 <!--
 **patoobyte/patoobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Greetings!  
+I am based in Brussels and currently developing my skills in data analysis & data engineering through [BeCode's AI & Data Science Bootcamp](https://becode.org/fr/chercheurs-emploi/formations/ia-data-science).
+
+I am fascinated by how data can reveal structure in complexity, uncover patterns, and turn scattered information into something meaningful that can support decisions.
+
+I enjoy working across the different stages of a data project, from collecting and structuring raw data to exploring patterns, interpreting results, and communicating findings. 
+
+## Contact
+[Linkedin](www.linkedin.com/in/sooyoung-lee-patoobyte)
